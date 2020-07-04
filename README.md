@@ -20,3 +20,6 @@ and/or filesystem UUID.
 
 The combination of all the above factors
 is used to generate the master key.
+
+Note: mmd files are mermaid files.
+Render with https://github.com/mermaid-js/mermaid-live-editor .
